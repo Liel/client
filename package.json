@@ -1,0 +1,22 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liel/client.git"
+  },
+  "author": "gamebro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Liel/client/issues"
+  },
+  "homepage": "https://github.com/Liel/client#readme",
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}
